@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
 <h3 align="center">A Passionate Software Testing Engineer From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaily&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaily" /> </p>
@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmedaily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedaily" height="30" width="40" /></a>
+<a href="https://fb.com/ahmedaalli.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedaalli.1" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmedaily_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedaily_" height="30" width="40" /></a>
 </p>
 
