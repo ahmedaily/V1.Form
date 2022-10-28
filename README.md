@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/c6/9f/a6/c69fa6e9d0af971ba052817ae70c4261.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
 <h3 align="center">A Passionate Software Testing Engineer From Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/71/87/R5ZQj6.gif">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.a6d90f78ea835c144a5d7eb99fe20b2e?rik=gs6gW1h%2fkYSVPw&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaily&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaily" /> </p>
 
