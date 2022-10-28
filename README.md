@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaily&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaily" /> </p>
 
-- 🌱 I’m currently learning **Testing APIs, Automation Testing**
+- 🌱 I’m currently learning **Testing APIs, More Automation Testing**
 
 - 👨‍💻 All of my projects are available at [http://bit.do/AhmedAliPortfolio](http://bit.do/AhmedAliPortfolio)
 
